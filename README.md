@@ -2,7 +2,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-# Я претендую на позицию Junior QA-инженера
+# Я претендую на позицию QA-инженера
 </div>
 
 <p>
