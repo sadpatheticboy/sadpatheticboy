@@ -56,3 +56,4 @@ add it soon
 # Контактная информация
 - TG: @sadpatheticboy (добавить ссылку на тг)
 - Email: bal-tim@mail.ru
+- линкендин (?)
