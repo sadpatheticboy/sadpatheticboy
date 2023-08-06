@@ -1,8 +1,8 @@
-
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 # Я претендую на позицию QA-инженера
+
 </div>
 
 <p>
@@ -13,16 +13,20 @@
 Если Вы зашли на эту страницу, то, судя по всему, Вам стало интересно то, кто я такой, откуда, и что я такое в плане своих навыков.
 </p>
 
-# Содержание
+# Оглавление
+
 - [Пару слов обо мне](#пару-слов-обо-мне)
 - [Мой стек](#мой-стек)
 - [Примеры моих работ](#примеры-моих-работ)
 - [Контактные сведения](#контактные-сведения)
+- [Всякая всячина](#всякая-всячина)
 
 # Пару слов обо мне
+
 - Год рождения: 2003
 - Город проживания: Москва
-- Образование: РГУ им. А.Н.Косыгина. Направление "Информатика и вычислительная техника". Кафедра "Автоматизированные системы обработки информации и управления"
+- Образование: РГУ им. А.Н.Косыгина. Направление "Информатика и вычислительная техника". Кафедра "Автоматизированные
+  системы обработки информации и управления"
 - Резюме: [ссылка на облако](https://drive.google.com/file/d/1id17wVg6-nv99Ta5H_IEdYBxN3cD5Wbf/view?usp=sharing)
 
 <p>
@@ -54,6 +58,18 @@ add it soon
 </div>
 
 # Контактные сведения
+
 - TG: @sadpatheticboy (добавить ссылку на тг)
 - Email: bal-tim@mail.ru
 - LinkedIn: [ссылка на профиль](https://www.linkedin.com/in/sadpatheticboy/)
+
+<div id="header" align="center">
+
+# Всякая всячина
+![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&hide_total_contributions=true)
+
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=sadpatheticboy&hide=Dockerfile&#41;)
+
+</div>
+
