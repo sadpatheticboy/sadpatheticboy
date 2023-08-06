@@ -46,8 +46,8 @@
 </p>
 
 # Мой стек
-
-<img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50">
+<p>
+<img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
 <img alt="Selenium" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="50" height="50">
 <img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="50" height="50">
 <img alt="Pytest" src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-f08a97a4a9cff017c204a21b66514ee07045dba8%2Fpytest.png?alt=media" width="150" height="50">
@@ -60,6 +60,7 @@
 <img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50"> <br>
 <img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50">
 <img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50">
+</p>
 
 # Примеры моих работ
 
