@@ -45,17 +45,25 @@
 Я люблю то, чем я занимаюсь, поэтому никогда не останавливаюсь на достигнутом и если замечаю пробелы в своих знаниях, то в кратчайшие сроки все изучаю
 </p>
 
-<div id="header" align="center">
-
 # Мой стек
 
-add it soon
+<img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> &nbsp
+<img alt="Selenium" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="50" height="50"> &nbsp
+<img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="50" height="50"> &nbsp
+<img alt="Pytest" src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-f08a97a4a9cff017c204a21b66514ee07045dba8%2Fpytest.png?alt=media" width="150" height="50"> &nbsp
+<img alt="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="50" height="50"> &nbsp
+<img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="58" height="50"> <br>
+<img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50"> &nbsp
+<img alt="Git" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50" height="50"> &nbsp
+<img alt="PostgreSQL" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="50" height="50"> &nbsp
+<img alt="JMeter" src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png" width="150" height="50"> &nbsp
+<img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50"> <br>
+<img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50"> &nbsp
+<img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50"> &nbsp
 
 # Примеры моих работ
 
 add it soon
-
-</div>
 
 # Контактные сведения
 
@@ -66,8 +74,8 @@ add it soon
 <div id="header" align="center">
 
 # Всякая всячина
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&mode=weekly) <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&hide_total_contributions=true)
 
 </div>
-
