@@ -66,10 +66,8 @@ add it soon
 <div id="header" align="center">
 
 # Всякая всячина
-![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&mode=weekly)
+![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&mode=weekly) <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=sadpatheticboy&theme=blueberry-duo&hide_border=true&border_radius=25&hide_total_contributions=true)
-
-[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=sadpatheticboy&hide=Dockerfile&#41;)
 
 </div>
 
