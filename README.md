@@ -47,6 +47,8 @@
 
 # Мой основной стек
 
+добавить разделения на активный стек и второстепенный + переименовать заголовок 
+
 <p>
 <img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
 <img alt="Selenium" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="50" height="50">
@@ -73,7 +75,6 @@ add it soon
 
 также в "пару слов обо мне" добавить инфу об учебных курсах в вузе
 
-добавить разделения на активный стек и второстепенный
 
 # Контактные сведения
 
