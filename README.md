@@ -63,6 +63,7 @@
 <img alt="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="50" height="50">
 <img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="58" height="50"> <br>
 <img alt="JMeter" src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png" width="150" height="50">
+<img alt="PostgreSQL" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="50" height="50">
 <img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50">
 <img alt="Git" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50" height="50">
 </p>
@@ -73,13 +74,12 @@
 Второстепенный стек - инструменты и технологии, которыми я в некоторой степени пользовался, но где не имею уверенных навыков использования
 </p>
 
-
-Добавить лого монгоДБ, редиса, стека елк 
-
 <p>
-<img alt="PostgreSQL" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="50" height="50">
+<img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="176" height="50">
+<img alt="Redis" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" width="50" height="50">
+<img alt="Elasticsearch" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" width="45" height="50"> <br>
 <img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50">
-<img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50">
+<img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50"> 
 <img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50">
 </p>
 
@@ -91,11 +91,9 @@ add it soon
 
 также тестовые документации: суть вкратце - ссылка на облако
 
-также в "пару слов обо мне" добавить инфу об учебных курсах в вузе
-
 # Контактные сведения
 
-- TG: @sadpatheticboy (добавить ссылку на тг)
+- TG: [@sadpatheticboy](https://t.me/sadpatheticboy)
 - Email: bal-tim@mail.ru
 - LinkedIn: [ссылка на профиль](https://www.linkedin.com/in/sadpatheticboy/)
 
