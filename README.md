@@ -85,11 +85,10 @@
 
 # Примеры моих работ
 
-add it soon!
-
-добавить репозитории проектов: краткое описание - ссылка репозитория
-
-также тестовые документации: суть вкратце - ссылка на облако
+1. Первый проект по автоматизации интернет-магазина "Ситилинк": Selenium, POM, PyTest ([репозиторий](https://github.com/sadpatheticboy/qa_citilink_project/tree/main))
+2. Проект по автоматизации "Swag Labs": Selenium, POM, PyTest, Allure, логгирование, снятие скриншотов ([репозиторий](https://github.com/sadpatheticboy/qa_shop_project))
+3. Проект по автоматизации Maps API от Rahul Shetty Academy: PyTest, Allure, логгирование ([репозиторий](https://github.com/sadpatheticboy/qa_maps_api_project))
+4. Проект по автоматизации "Oscar - Sandbox": Selenium, POM, PyTest, параметры запуска ([репозиторий](https://github.com/sadpatheticboy/qa_final_project))
 
 # Контактные сведения
 
