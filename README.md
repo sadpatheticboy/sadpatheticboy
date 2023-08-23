@@ -37,7 +37,7 @@
 </p>
 
 <p>
-Через некоторое время я бросил создание ботов в телеграмм, и стал учить все, что мне попадалось на пути: от всяких основ программирования и Computer Science до продвинутых тем и других второстепенных инструментов. Изучил реляционные БД (PostgreSQL, MySQL), неряляционные БД (MongoDB, Redis), фреймворки тестирования unittest и PyTest, Docker, а также были попытки поработать со стеком ELK и Kubernetes. Что-то было изучено мною в большей степени, что-то в меньшей.
+Через некоторое время я бросил создание ботов в телеграмм, и стал учить все, что мне попадалось на пути: от всяких основ программирования и Computer Science до продвинутых тем и других второстепенных инструментов. Изучил реляционные БД (PostgreSQL, MySQL), неряляционные БД (MongoDB), фреймворки тестирования unittest и PyTest, Docker, а также были попытки поработать со стеком ELK и Kubernetes. Что-то было изучено мною в большей степени, что-то в меньшей.
 </p>
 
 <p>
@@ -77,10 +77,8 @@
 
 <p>
 <img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50">
-<img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="176" height="50">
-<img alt="Redis" src="https://seeklogo.com/images/R/redis-logo-E403D4DD6A-seeklogo.com.png" width="50" height="50">
-<img alt="Elasticsearch" src="https://seeklogo.com/images/E/elasticsearch-logo-C75C4578EC-seeklogo.com.png" width="45" height="50"> <br>
-<img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50"> 
+<img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="176" height="50"><br/>
+<img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50">
 <img alt="C#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="50" height="50">
 </p>
 
@@ -100,6 +98,7 @@
 - [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/2146045)
 - [Тестирование ПО: Нагрузочное тестирование с помощью Jmeter]()
 - [Тестирование ПО: Подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/2156172)
+- [Тестирование ПО: Симулятор собеседования для тестировщика ПО]()
 
 # Контактные сведения
 
