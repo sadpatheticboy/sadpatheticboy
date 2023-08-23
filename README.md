@@ -91,6 +91,15 @@
 - Проект по автоматизации Maps API от Rahul Shetty Academy: PyTest, Allure, логгирование ([репозиторий](https://github.com/sadpatheticboy/qa_maps_api_project));
 - Проект по автоматизации "Oscar - Sandbox": Selenium, POM, PyTest, параметры запуска ([репозиторий](https://github.com/sadpatheticboy/qa_final_project)).
 
+# Мои сертификаты
+
+- [Тестирование ПО: С нуля до специалиста](https://stepik.org/cert/2132177)
+- [Тестирование ПО: Автоматизация и Selenium](https://stepik.org/cert/2141871)
+- [Тестирование ПО: Автоматизация и API](https://stepik.org/cert/2151535)
+- [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/2146045)
+- [Тестирование ПО: Нагрузочное тестирование с помощью Jmeter]()
+- [Тестирование ПО: Подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/2156172)
+
 # Контактные сведения
 
 - TG: [@sadpatheticboy](https://t.me/sadpatheticboy)
