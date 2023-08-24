@@ -83,8 +83,10 @@
 </p>
 
 # Примеры моих работ
+- Учебная тестовая документация по сервису Mail.ru ([облако](https://docs.google.com/spreadsheets/d/1AMQw4qaeXuDwByz-cn_nv7YizDnyhMoUuKWG91-ZuwE/edit?usp=sharing));
+- Тестовое задание от hoster.by на позицию QA-инженера ([облако](https://docs.google.com/spreadsheets/d/1OdDIz2hxx5A10JAXykB7zQjEI23NWHCN/edit?usp=sharing&ouid=113467521915194173130&rtpof=true&sd=true)).
 
-- Тестовая документация по сервису Mail.ru ([облако](https://docs.google.com/spreadsheets/d/1AMQw4qaeXuDwByz-cn_nv7YizDnyhMoUuKWG91-ZuwE/edit?usp=sharing));
+
 - Проект по автоматизации интернет-магазина "Ситилинк": Selenium, POM, PyTest ([репозиторий](https://github.com/sadpatheticboy/qa_citilink_project/tree/main));
 - Проект по автоматизации "Swag Labs": Selenium, POM, PyTest, Allure, логгирование, снятие скриншотов ([репозиторий](https://github.com/sadpatheticboy/qa_shop_project));
 - Проект по автоматизации Maps API от Rahul Shetty Academy: PyTest, Allure, логгирование ([репозиторий](https://github.com/sadpatheticboy/qa_maps_api_project));
