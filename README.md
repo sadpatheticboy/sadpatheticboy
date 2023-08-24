@@ -37,11 +37,11 @@
 </p>
 
 <p>
-Через некоторое время я бросил создание ботов в телеграмм, и стал учить все, что мне попадалось на пути: от всяких основ программирования и Computer Science до продвинутых тем и других второстепенных инструментов. Изучил реляционные БД (PostgreSQL, MySQL), неряляционные БД (MongoDB), фреймворки тестирования unittest и PyTest, Docker, а также были попытки поработать со стеком ELK и Kubernetes. Что-то было изучено мною в большей степени, что-то в меньшей.
+Через некоторое время я бросил создание ботов в телеграмм, и стал учить все, что мне попадалось на пути: от всяких основ программирования и Computer Science до продвинутых тем и других второстепенных инструментов. Изучил реляционные БД (PostgreSQL, MySQL), неряляционные БД (MongoDB), фреймворки тестирования unittest и PyTest, основы контейнеризации (Docker), системы непрерывной интеграции (Jenkins) а также были попытки поработать со стеком ELK и Kubernetes. Что-то было изучено мною в большей степени, что-то в меньшей.
 </p>
 
 <p>
-В процессе изучения фреймворков модульного тестирования, меня особенно заинтересовала данная тема в более широком контексте, и я принял решение развиваться в направлении QA-инженера. На данный момент, мой активный стек включает в себя навыки работы с Python, PyTest, Selenium, Jmeter, Postman, git, Docker, а также опыт работы с различными базами данных и allure для отчетности.
+В процессе изучения фреймворков модульного тестирования, меня особенно заинтересовала данная тема в более широком контексте, и я принял решение развиваться в направлении QA-инженера. На данный момент мой активный стек включает в себя навыки работы с Python, PyTest, Selenium, Jmeter, Postman, git, Docker, Jenkins а также опыт работы с различными базами данных и allure для отчетности.
 </p>
 
 <p>
@@ -55,7 +55,7 @@
 </p>
 
 <p>
-К основному относятся инструменты и технологии, которыми я больше всего пользуюсь и в которых мои знания крепки. Второстепенный стек - инструменты и технологии, которыми я в некоторой степени овладел, где нет уверенных навыков использования.
+К основному относятся инструменты и технологии, которыми я больше всего пользуюсь, и в которых мои знания крепки. Второстепенный стек - инструменты и технологии, которыми я в некоторой степени овладел, где нет уверенных навыков использования.
 </p>
 
 ## Основной стек
@@ -69,13 +69,13 @@
 <img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="58" height="50"> <br>
 <img alt="JMeter" src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png" width="150" height="50">
 <img alt="PostgreSQL" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="50" height="50">
-<img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50">
 <img alt="Git" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50" height="50">
 </p>
 
 ## Второстепенный стек
 
 <p>
+<img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50">
 <img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50">
 <img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="176" height="50"><br/>
 <img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50">
@@ -96,7 +96,7 @@
 - [Тестирование ПО: Автоматизация и Selenium](https://stepik.org/cert/2141871)
 - [Тестирование ПО: Автоматизация и API](https://stepik.org/cert/2151535)
 - [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/cert/2146045)
-- [Тестирование ПО: Нагрузочное тестирование с помощью Jmeter]()
+- [Тестирование ПО: Нагрузочное тестирование с помощью Jmeter](https://stepik.org/cert/2156688)
 - [Тестирование ПО: Подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/2156172)
 - [Тестирование ПО: Симулятор собеседования для тестировщика ПО]()
 
