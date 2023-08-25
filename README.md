@@ -50,15 +50,6 @@
 
 # Мой стек
 
-<p>
-Я делю свой стек на основной и второстепенный. 
-</p>
-
-<p>
-К основному относятся инструменты и технологии, которыми я больше всего пользуюсь, и в которых мои знания крепки. Второстепенный стек - инструменты и технологии, которыми я в некоторой степени овладел, где нет уверенных навыков использования.
-</p>
-
-## Основной стек
 
 <p>
 <img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
@@ -70,12 +61,7 @@
 <img alt="JMeter" src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png" width="150" height="50">
 <img alt="PostgreSQL" src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="50" height="50">
 <img alt="Git" src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="50" height="50">
-</p>
-
-## Второстепенный стек
-
-<p>
-<img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50">
+<img alt="Jenkins" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1483px-Jenkins_logo.svg.png" width="35" height="50"> <br/>
 <img alt="Gitlab CI/CD" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="50" height="50">
 <img alt="MongoDB" src="https://seeklogo.com/images/M/mongodb-logo-4A71340576-seeklogo.com.png" width="176" height="50"><br/>
 <img alt="Java" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="44" height="50">
