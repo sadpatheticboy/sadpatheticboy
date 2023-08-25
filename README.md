@@ -41,7 +41,7 @@
 </p>
 
 <p>
-В процессе изучения фреймворков модульного тестирования, меня особенно заинтересовала данная тема в более широком контексте, и я принял решение развиваться в направлении QA-инженера. На данный момент мой активный стек включает в себя навыки работы с Python, PyTest, Selenium, JMeter, Postman, Git, Docker, Jenkins, а также опыт работы с различными базами данных и allure для отчетности.
+В процессе изучения фреймворков модульного тестирования, меня особенно заинтересовала данная тема в более широком контексте, и я принял решение развиваться в направлении QA-инженера. На данный момент мой активный стек включает в себя навыки работы с Python, Selenium, PyTest, Postman, Allure, Docker, Jenkins, Git, а также опыт работы с различными базами данных и allure для отчетности.
 </p>
 
 <p>
@@ -63,8 +63,8 @@
 <p>
 <img alt="Python" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50" height="50"> 
 <img alt="Selenium" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" width="50" height="50">
-<img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="50" height="50">
 <img alt="Pytest" src="https://545767148-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MdBdUMSCcMYTyNwZf80%2Fuploads%2Fgit-blob-f08a97a4a9cff017c204a21b66514ee07045dba8%2Fpytest.png?alt=media" width="150" height="50">
+<img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="50" height="50">
 <img alt="Allure" src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" width="50" height="50">
 <img alt="Docker" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png.webp" width="58" height="50"> <br>
 <img alt="JMeter" src="https://seeklogo.com/images/J/jmeter-logo-D9C2DDEEBC-seeklogo.com.png" width="150" height="50">
