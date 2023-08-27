@@ -71,7 +71,7 @@
 - Тестовое задание от hoster.by на позицию QA-инженера ([облако](https://docs.google.com/spreadsheets/d/1OdDIz2hxx5A10JAXykB7zQjEI23NWHCN/edit?usp=sharing&ouid=113467521915194173130&rtpof=true&sd=true));
 - Проект по автоматизации интернет-магазина "Ситилинк": Selenium, POM, PyTest ([репозиторий](https://github.com/sadpatheticboy/qa_citilink_project/tree/main));
 - Проект по автоматизации "Swag Labs": Selenium, POM, PyTest, Allure, логгирование, снятие скриншотов ([репозиторий](https://github.com/sadpatheticboy/qa_shop_project));
-- Проект по автоматизации Maps API от Rahul Shetty Academy: PyTest, Allure, логгирование ([репозиторий](https://github.com/sadpatheticboy/qa_maps_api_project));
+- Проект по автоматизации "Maps API" от Rahul Shetty Academy: PyTest, Allure, логгирование ([репозиторий](https://github.com/sadpatheticboy/qa_maps_api_project));
 - Проект по автоматизации "Oscar - Sandbox": Selenium, POM, PyTest, параметры запуска ([репозиторий](https://github.com/sadpatheticboy/qa_final_project)).
 
 # Мои сертификаты
