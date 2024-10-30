@@ -84,10 +84,11 @@
 - [Тестирование ПО: Нагрузочное тестирование с помощью Jmeter](https://stepik.org/cert/2156688)
 - [Тестирование ПО: Подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/2156172)
 - [Тестирование ПО: Симулятор собеседования для тестировщика ПО](https://stepik.org/cert/2157251)
+- [QA.GURU. Автоматизация тестирования на Python](https://drive.google.com/file/d/1lTdkJiZNGk0tWn-rQuECwpKJco2MNnAo/view?usp=sharing)
 
 # Контактные сведения
 
-- TG: [@sadpatheticboy](https://t.me/sadpatheticboy)
+- TG: [@cuteblessedboy](https://t.me/cuteblessedboy)
 - Email: bal-tim@mail.ru
 - LinkedIn: [ссылка на профиль](https://www.linkedin.com/in/sadpatheticboy/)
 
